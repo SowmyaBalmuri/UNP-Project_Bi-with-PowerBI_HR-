@@ -19,7 +19,7 @@ DASHBOARD UTILIZATION:
 
 1 Slicers for Departments
 
-2 Slacked Column chart for Attrition by hourly rate and also for relationship status.
+2 Stacked Column chart for Attrition by hourly rate and also for relationship status.
 
 3 Slicers for Gender
 
